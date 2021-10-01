@@ -1,0 +1,24 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "description": "Learning Typescript by making a blockchain with it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mxx-kor/blockchain-typescript.git"
+  },
+  "author": "MINJAE KIM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mxx-kor/blockchain-typescript/issues"
+  },
+  "homepage": "https://github.com/mxx-kor/blockchain-typescript#readme",
+ "scripts": {
+    "start": "node index.js",
+    "prestart": "npx tsc"
+  }
+
+}
