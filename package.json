@@ -20,5 +20,4 @@
     "start": "node index.js",
     "prestart": "npx tsc"
   }
-
 }
